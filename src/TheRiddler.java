@@ -1,3 +1,5 @@
+import javax.swing.JOptionPane;
+
 //    Copyright (c) The League of Amazing Programmers 2013-2017
 //    Level 0
 
@@ -19,6 +21,25 @@ public class TheRiddler {
 
 		// 2. Make a pop up to show the score.
 		
+	
+	int score=0;
+	JOptionPane.showInputDialog()
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	}
 }
 
